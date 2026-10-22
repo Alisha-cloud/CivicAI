@@ -1,0 +1,121 @@
+complaint_id,complaint_text,category,subcategory,location,urgency,department,resolution_status
+SYN-0001,Water supply has stopped in Ward 14 and residents have had no water for three days.,Water Supply,Water Supply,,MEDIUM,Water Supply Department,SYNTHETIC_SAMPLE
+SYN-0002,The water tanker did not arrive in Green Park this morning.,Water Supply,Water Supply,,MEDIUM,Water Supply Department,SYNTHETIC_SAMPLE
+SYN-0003,Families in Gandhi Nagar are reporting low water pressure since Monday.,Water Supply,Water Supply,,MEDIUM,Water Supply Department,SYNTHETIC_SAMPLE
+SYN-0004,Dirty water is coming from taps in the housing colony.,Water Supply,Water Supply,,MEDIUM,Water Supply Department,SYNTHETIC_SAMPLE
+SYN-0005,A pipeline leak is wasting water near the market road.,Water Supply,Water Supply,,MEDIUM,Water Supply Department,SYNTHETIC_SAMPLE
+SYN-0006,Water supply timings have changed without notice in our area.,Water Supply,Water Supply,,MEDIUM,Water Supply Department,SYNTHETIC_SAMPLE
+SYN-0007,The public water tap is broken near Ward 8.,Water Supply,Water Supply,,MEDIUM,Water Supply Department,SYNTHETIC_SAMPLE
+SYN-0008,Several homes have no drinking water after the main pipeline repair.,Water Supply,Water Supply,,MEDIUM,Water Supply Department,SYNTHETIC_SAMPLE
+SYN-0009,The overhead water tank has not been filled for two days.,Water Supply,Water Supply,,MEDIUM,Water Supply Department,SYNTHETIC_SAMPLE
+SYN-0010,Please investigate the irregular water supply in our neighborhood.,Water Supply,Water Supply,,MEDIUM,Water Supply Department,SYNTHETIC_SAMPLE
+SYN-0011,There has been no electricity in Ward 5 since last night.,Electricity,Electricity,,MEDIUM,Electricity Department,SYNTHETIC_SAMPLE
+SYN-0012,Power keeps going off every evening in our street.,Electricity,Electricity,,MEDIUM,Electricity Department,SYNTHETIC_SAMPLE
+SYN-0013,A transformer is making loud noises near the school.,Electricity,Electricity,,MEDIUM,Electricity Department,SYNTHETIC_SAMPLE
+SYN-0014,Voltage is very low in the residential buildings.,Electricity,Electricity,,MEDIUM,Electricity Department,SYNTHETIC_SAMPLE
+SYN-0015,An electricity meter is damaged and needs inspection.,Electricity,Electricity,,MEDIUM,Electricity Department,SYNTHETIC_SAMPLE
+SYN-0016,Residents have reported a power outage after the storm.,Electricity,Electricity,,MEDIUM,Electricity Department,SYNTHETIC_SAMPLE
+SYN-0017,Electricity bills appear incorrect for several households.,Electricity,Electricity,,MEDIUM,Electricity Department,SYNTHETIC_SAMPLE
+SYN-0018,The power cable outside our building is hanging dangerously.,Electricity,Electricity,,MEDIUM,Electricity Department,SYNTHETIC_SAMPLE
+SYN-0019,Street homes have repeated electricity interruptions.,Electricity,Electricity,,MEDIUM,Electricity Department,SYNTHETIC_SAMPLE
+SYN-0020,Please inspect the exposed electrical wire near the market.,Electricity,Electricity,,MEDIUM,Electricity Department,SYNTHETIC_SAMPLE
+SYN-0021,A large pothole has damaged the road near the bus stop.,Roads & Infrastructure,Roads & Infrastructure,,MEDIUM,Public Works Department,SYNTHETIC_SAMPLE
+SYN-0022,The road surface is broken in Ward 11.,Roads & Infrastructure,Roads & Infrastructure,,MEDIUM,Public Works Department,SYNTHETIC_SAMPLE
+SYN-0023,Construction work has left debris across the street.,Roads & Infrastructure,Roads & Infrastructure,,MEDIUM,Public Works Department,SYNTHETIC_SAMPLE
+SYN-0024,The footpath is cracked and unsafe for pedestrians.,Roads & Infrastructure,Roads & Infrastructure,,MEDIUM,Public Works Department,SYNTHETIC_SAMPLE
+SYN-0025,Rainwater has damaged the road near the hospital.,Roads & Infrastructure,Roads & Infrastructure,,MEDIUM,Public Works Department,SYNTHETIC_SAMPLE
+SYN-0026,A manhole cover is missing on the main road.,Roads & Infrastructure,Roads & Infrastructure,,MEDIUM,Public Works Department,SYNTHETIC_SAMPLE
+SYN-0027,The bridge approach road needs urgent repairs.,Roads & Infrastructure,Roads & Infrastructure,,MEDIUM,Public Works Department,SYNTHETIC_SAMPLE
+SYN-0028,Road construction has been incomplete for two months.,Roads & Infrastructure,Roads & Infrastructure,,MEDIUM,Public Works Department,SYNTHETIC_SAMPLE
+SYN-0029,Traffic barriers were left blocking the residential lane.,Roads & Infrastructure,Roads & Infrastructure,,MEDIUM,Public Works Department,SYNTHETIC_SAMPLE
+SYN-0030,Please repair the damaged road outside the school.,Roads & Infrastructure,Roads & Infrastructure,,MEDIUM,Public Works Department,SYNTHETIC_SAMPLE
+SYN-0031,Garbage has not been collected from our lane for four days.,Waste Management,Waste Management,,MEDIUM,Waste Management Department,SYNTHETIC_SAMPLE
+SYN-0032,Overflowing bins are attracting stray animals near the market.,Waste Management,Waste Management,,MEDIUM,Waste Management Department,SYNTHETIC_SAMPLE
+SYN-0033,The waste collection vehicle skipped our neighborhood.,Waste Management,Waste Management,,MEDIUM,Waste Management Department,SYNTHETIC_SAMPLE
+SYN-0034,Household rubbish is piling up beside the apartment gate.,Waste Management,Waste Management,,MEDIUM,Waste Management Department,SYNTHETIC_SAMPLE
+SYN-0035,The public dustbin is overflowing in Ward 3.,Waste Management,Waste Management,,MEDIUM,Waste Management Department,SYNTHETIC_SAMPLE
+SYN-0036,Please arrange collection of garbage from the main street.,Waste Management,Waste Management,,MEDIUM,Waste Management Department,SYNTHETIC_SAMPLE
+SYN-0037,Plastic waste has accumulated near the playground.,Waste Management,Waste Management,,MEDIUM,Waste Management Department,SYNTHETIC_SAMPLE
+SYN-0038,Garbage collection timings are inconsistent in our area.,Waste Management,Waste Management,,MEDIUM,Waste Management Department,SYNTHETIC_SAMPLE
+SYN-0039,Several waste bins are broken and need replacement.,Waste Management,Waste Management,,MEDIUM,Waste Management Department,SYNTHETIC_SAMPLE
+SYN-0040,Uncollected waste is creating a bad smell near the shops.,Waste Management,Waste Management,,MEDIUM,Waste Management Department,SYNTHETIC_SAMPLE
+SYN-0041,The public toilet is dirty and has no running water.,Sanitation,Sanitation,,MEDIUM,Sanitation Department,SYNTHETIC_SAMPLE
+SYN-0042,Drainage water is overflowing into the street.,Sanitation,Sanitation,,MEDIUM,Sanitation Department,SYNTHETIC_SAMPLE
+SYN-0043,A sewage leak is causing a foul smell near our homes.,Sanitation,Sanitation,,MEDIUM,Sanitation Department,SYNTHETIC_SAMPLE
+SYN-0044,The roadside drain is blocked after heavy rain.,Sanitation,Sanitation,,MEDIUM,Sanitation Department,SYNTHETIC_SAMPLE
+SYN-0045,Open sewage is flowing near the school entrance.,Sanitation,Sanitation,,MEDIUM,Sanitation Department,SYNTHETIC_SAMPLE
+SYN-0046,Sanitation workers have not cleaned the public area this week.,Sanitation,Sanitation,,MEDIUM,Sanitation Department,SYNTHETIC_SAMPLE
+SYN-0047,The community toilet needs urgent maintenance.,Sanitation,Sanitation,,MEDIUM,Sanitation Department,SYNTHETIC_SAMPLE
+SYN-0048,Blocked drains are causing stagnant water in our lane.,Sanitation,Sanitation,,MEDIUM,Sanitation Department,SYNTHETIC_SAMPLE
+SYN-0049,Please clean the drain outside the residential complex.,Sanitation,Sanitation,,MEDIUM,Sanitation Department,SYNTHETIC_SAMPLE
+SYN-0050,Dirty water is accumulating around the public toilet.,Sanitation,Sanitation,,MEDIUM,Sanitation Department,SYNTHETIC_SAMPLE
+SYN-0051,The city bus did not arrive at the scheduled time.,Public Transport,Public Transport,,MEDIUM,Public Transport Department,SYNTHETIC_SAMPLE
+SYN-0052,Bus service to our village has been reduced.,Public Transport,Public Transport,,MEDIUM,Public Transport Department,SYNTHETIC_SAMPLE
+SYN-0053,The bus stop display is not showing correct arrival times.,Public Transport,Public Transport,,MEDIUM,Public Transport Department,SYNTHETIC_SAMPLE
+SYN-0054,Passengers are waiting too long for buses on this route.,Public Transport,Public Transport,,MEDIUM,Public Transport Department,SYNTHETIC_SAMPLE
+SYN-0055,The bus shelter roof is damaged near the college.,Public Transport,Public Transport,,MEDIUM,Public Transport Department,SYNTHETIC_SAMPLE
+SYN-0056,The public bus route does not stop near the hospital.,Public Transport,Public Transport,,MEDIUM,Public Transport Department,SYNTHETIC_SAMPLE
+SYN-0057,Several buses are overcrowded during morning hours.,Public Transport,Public Transport,,MEDIUM,Public Transport Department,SYNTHETIC_SAMPLE
+SYN-0058,The bus stop has no seating for elderly passengers.,Public Transport,Public Transport,,MEDIUM,Public Transport Department,SYNTHETIC_SAMPLE
+SYN-0059,Please investigate repeated cancellations on route 21.,Public Transport,Public Transport,,MEDIUM,Public Transport Department,SYNTHETIC_SAMPLE
+SYN-0060,The public transport timetable needs to be updated.,Public Transport,Public Transport,,MEDIUM,Public Transport Department,SYNTHETIC_SAMPLE
+SYN-0061,The street light is not working outside building 12.,Street Lighting,Street Lighting,,MEDIUM,Electrical Maintenance Department,SYNTHETIC_SAMPLE
+SYN-0062,Several streetlights are off along the main road.,Street Lighting,Street Lighting,,MEDIUM,Electrical Maintenance Department,SYNTHETIC_SAMPLE
+SYN-0063,The lamp post near the park flickers every night.,Street Lighting,Street Lighting,,MEDIUM,Electrical Maintenance Department,SYNTHETIC_SAMPLE
+SYN-0064,Our lane becomes dark because the street lights are broken.,Street Lighting,Street Lighting,,MEDIUM,Electrical Maintenance Department,SYNTHETIC_SAMPLE
+SYN-0065,A streetlight pole is leaning dangerously near the school.,Street Lighting,Street Lighting,,MEDIUM,Electrical Maintenance Department,SYNTHETIC_SAMPLE
+SYN-0066,Please repair the lights in Ward 9.,Street Lighting,Street Lighting,,MEDIUM,Electrical Maintenance Department,SYNTHETIC_SAMPLE
+SYN-0067,The street lighting near the bus stop has failed.,Street Lighting,Street Lighting,,MEDIUM,Electrical Maintenance Department,SYNTHETIC_SAMPLE
+SYN-0068,Street lamps have not been switched on after sunset.,Street Lighting,Street Lighting,,MEDIUM,Electrical Maintenance Department,SYNTHETIC_SAMPLE
+SYN-0069,The light near the pedestrian crossing is broken.,Street Lighting,Street Lighting,,MEDIUM,Electrical Maintenance Department,SYNTHETIC_SAMPLE
+SYN-0070,Two streetlights are damaged after the storm.,Street Lighting,Street Lighting,,MEDIUM,Electrical Maintenance Department,SYNTHETIC_SAMPLE
+SYN-0071,The local public clinic has no doctor available today.,Healthcare,Healthcare,,MEDIUM,Public Health Department,SYNTHETIC_SAMPLE
+SYN-0072,Essential medicines are unavailable at the government dispensary.,Healthcare,Healthcare,,MEDIUM,Public Health Department,SYNTHETIC_SAMPLE
+SYN-0073,The hospital waiting area is overcrowded.,Healthcare,Healthcare,,MEDIUM,Public Health Department,SYNTHETIC_SAMPLE
+SYN-0074,An ambulance service did not arrive promptly.,Healthcare,Healthcare,,MEDIUM,Public Health Department,SYNTHETIC_SAMPLE
+SYN-0075,The community health center needs cleaner facilities.,Healthcare,Healthcare,,MEDIUM,Public Health Department,SYNTHETIC_SAMPLE
+SYN-0076,Please repair the broken equipment at the public clinic.,Healthcare,Healthcare,,MEDIUM,Public Health Department,SYNTHETIC_SAMPLE
+SYN-0077,The vaccination counter was closed during working hours.,Healthcare,Healthcare,,MEDIUM,Public Health Department,SYNTHETIC_SAMPLE
+SYN-0078,Residents cannot book appointments at the health center.,Healthcare,Healthcare,,MEDIUM,Public Health Department,SYNTHETIC_SAMPLE
+SYN-0079,The public hospital has a water leak in the ward.,Healthcare,Healthcare,,MEDIUM,Public Health Department,SYNTHETIC_SAMPLE
+SYN-0080,Please investigate long waiting times at the municipal clinic.,Healthcare,Healthcare,,MEDIUM,Public Health Department,SYNTHETIC_SAMPLE
+SYN-0081,A live wire is lying across the footpath near the school.,Public Safety,Public Safety,,MEDIUM,Public Safety Department,SYNTHETIC_SAMPLE
+SYN-0082,There is a broken railing beside the elevated walkway.,Public Safety,Public Safety,,MEDIUM,Public Safety Department,SYNTHETIC_SAMPLE
+SYN-0083,An uncovered manhole creates danger for pedestrians.,Public Safety,Public Safety,,MEDIUM,Public Safety Department,SYNTHETIC_SAMPLE
+SYN-0084,A damaged traffic signal is causing unsafe crossings.,Public Safety,Public Safety,,MEDIUM,Public Safety Department,SYNTHETIC_SAMPLE
+SYN-0085,People are reporting a dangerous open pit on the road.,Public Safety,Public Safety,,MEDIUM,Public Safety Department,SYNTHETIC_SAMPLE
+SYN-0086,A fallen tree is blocking the emergency access lane.,Public Safety,Public Safety,,MEDIUM,Public Safety Department,SYNTHETIC_SAMPLE
+SYN-0087,The pedestrian crossing signal is not working.,Public Safety,Public Safety,,MEDIUM,Public Safety Department,SYNTHETIC_SAMPLE
+SYN-0088,There is a major fire hazard from exposed wiring in the building.,Public Safety,Public Safety,,MEDIUM,Public Safety Department,SYNTHETIC_SAMPLE
+SYN-0089,Please inspect the unsafe construction barrier near the market.,Public Safety,Public Safety,,MEDIUM,Public Safety Department,SYNTHETIC_SAMPLE
+SYN-0090,A damaged public staircase has loose steps.,Public Safety,Public Safety,,MEDIUM,Public Safety Department,SYNTHETIC_SAMPLE
+SYN-0091,Smoke from a factory is affecting nearby homes.,Environment,Environment,,MEDIUM,Environment Department,SYNTHETIC_SAMPLE
+SYN-0092,An illegal dumping site is polluting the open land.,Environment,Environment,,MEDIUM,Environment Department,SYNTHETIC_SAMPLE
+SYN-0093,A foul chemical smell is coming from the drainage canal.,Environment,Environment,,MEDIUM,Environment Department,SYNTHETIC_SAMPLE
+SYN-0094,Trees have been cut down near the public garden.,Environment,Environment,,MEDIUM,Environment Department,SYNTHETIC_SAMPLE
+SYN-0095,Construction dust is affecting residents along the road.,Environment,Environment,,MEDIUM,Environment Department,SYNTHETIC_SAMPLE
+SYN-0096,Black smoke is coming from a waste burning site.,Environment,Environment,,MEDIUM,Environment Department,SYNTHETIC_SAMPLE
+SYN-0097,The local pond is covered with plastic waste.,Environment,Environment,,MEDIUM,Environment Department,SYNTHETIC_SAMPLE
+SYN-0098,Noise from late-night construction is disturbing residents.,Environment,Environment,,MEDIUM,Environment Department,SYNTHETIC_SAMPLE
+SYN-0099,Please investigate wastewater being released into the stream.,Environment,Environment,,MEDIUM,Environment Department,SYNTHETIC_SAMPLE
+SYN-0100,Air pollution has increased near the industrial area.,Environment,Environment,,MEDIUM,Environment Department,SYNTHETIC_SAMPLE
+SYN-0101,The roof of the public housing building is leaking.,Housing,Housing,,MEDIUM,Housing Department,SYNTHETIC_SAMPLE
+SYN-0102,Water is entering our government apartment during rain.,Housing,Housing,,MEDIUM,Housing Department,SYNTHETIC_SAMPLE
+SYN-0103,The lift in the public housing block has been broken for a week.,Housing,Housing,,MEDIUM,Housing Department,SYNTHETIC_SAMPLE
+SYN-0104,Cracks have appeared in the wall of the housing building.,Housing,Housing,,MEDIUM,Housing Department,SYNTHETIC_SAMPLE
+SYN-0105,Several streetlights in the housing complex are damaged.,Housing,Housing,,MEDIUM,Housing Department,SYNTHETIC_SAMPLE
+SYN-0106,The housing repair request has not received a response.,Housing,Housing,,MEDIUM,Housing Department,SYNTHETIC_SAMPLE
+SYN-0107,Public housing windows are broken and need maintenance.,Housing,Housing,,MEDIUM,Housing Department,SYNTHETIC_SAMPLE
+SYN-0108,The shared staircase in our building is unsafe.,Housing,Housing,,MEDIUM,Housing Department,SYNTHETIC_SAMPLE
+SYN-0109,Residents have reported a leaking pipe in the housing block.,Housing,Housing,,MEDIUM,Housing Department,SYNTHETIC_SAMPLE
+SYN-0110,Please inspect structural damage in the public housing unit.,Housing,Housing,,MEDIUM,Housing Department,SYNTHETIC_SAMPLE
+SYN-0111,My birth certificate application has been pending for weeks.,Government Services,Government Services,,MEDIUM,General Administration Department,SYNTHETIC_SAMPLE
+SYN-0112,The municipal office website is not accepting applications.,Government Services,Government Services,,MEDIUM,General Administration Department,SYNTHETIC_SAMPLE
+SYN-0113,I cannot track my government service request online.,Government Services,Government Services,,MEDIUM,General Administration Department,SYNTHETIC_SAMPLE
+SYN-0114,The property tax receipt has incorrect details.,Government Services,Government Services,,MEDIUM,General Administration Department,SYNTHETIC_SAMPLE
+SYN-0115,The local office has not responded to my submitted form.,Government Services,Government Services,,MEDIUM,General Administration Department,SYNTHETIC_SAMPLE
+SYN-0116,The public service counter was closed during office hours.,Government Services,Government Services,,MEDIUM,General Administration Department,SYNTHETIC_SAMPLE
+SYN-0117,My permit application status has not changed.,Government Services,Government Services,,MEDIUM,General Administration Department,SYNTHETIC_SAMPLE
+SYN-0118,The online payment receipt was not generated.,Government Services,Government Services,,MEDIUM,General Administration Department,SYNTHETIC_SAMPLE
+SYN-0119,Please correct the spelling mistake in my official certificate.,Government Services,Government Services,,MEDIUM,General Administration Department,SYNTHETIC_SAMPLE
+SYN-0120,The municipal helpline is not responding to service requests.,Government Services,Government Services,,MEDIUM,General Administration Department,SYNTHETIC_SAMPLE
